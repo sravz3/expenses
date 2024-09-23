@@ -1,0 +1,7 @@
+*.db
+*.cfg
+*.pyc
+/bin
+/include
+/lib
+
